@@ -18,8 +18,8 @@ Vagrantfile     # Vagrant configuration
 
 ## How to run the demo?
 
-1. Install <a href='http://www.vagrantup.com/'>Vagrant</a> and <a href='https://www.virtualbox.org/'>VirtualBox</a>
+1. Install <a href='http://www.vagrantup.com/' target='_blank'>Vagrant</a> and <a href='https://www.virtualbox.org/' target='_blank'>VirtualBox</a>
 2. Add `10.0.1.10 vagrant` to your `hosts` file
 3. Change to the directory `Vagrantfile` is in
 4. Run `vagrant up` and wait for it to finish (you need to have Internet connection, for everything to install correctly)
-5. Open <a href='http://vagrant/'>http://vagrant/</a> in a browser
+5. Open <a href='http://vagrant/' target='_blank'>http://vagrant/</a> in a browser
